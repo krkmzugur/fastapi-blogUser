@@ -16,4 +16,3 @@ def get_db():
     finally:
         db.close()
 
-#postgres://avnadmin:AVNS_cWkWpaCKpa4B9qks-sE@pg-2d7611d5-blogdevcode-0684.a.aivencloud.com:22660/defaultdb?sslmode=require
